@@ -1,0 +1,54 @@
+
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Han Wu"                        # site title                     # 网站标题
+theme = "zozo"
+hasCJKLanguage = true                  # has chinese/japanese/korean ?  # 自动检测是否包含 中文\日文\韩文
+enableEmoji = true
+
+
+
+pygmentsUseClasses = true
+pygmentCodeFences = true
+pygmentscodefencesguesssyntax = true
+
+[author]                               # essential                      # 必需
+  name = "Han Wu"
+
+[blackfriday]
+  smartypants = false
+
+[[menu.main]]                          # config your menu               # 配置菜单
+  name = "Home"
+  weight = 40
+  identifier = "home"
+  url = "/"
+[[menu.main]]
+  name = "Publications"
+  weight = 40
+  identifier = "publications"
+  url = "/publications/"
+
+[params]
+  job = "PhD candidate"
+  affiliation = " Eindhoven University of Technology"
+  email = " Email: h.wu1 [at] tue [dot] nl"
+  subTitle = "Han Wu's Homepage"                                       # site's subTitle              # 网站二级标题
+  footerSlogan = "© 2025 Han Wu, All Rights Reserved"                                   # site's footer slogan         # 网站页脚标语
+  keywords = ["Han Wu","hoempage","information theory"]                                   # site's keywords              # 网站关键字
+  description = "Han Wu's homepage"                        # site's description           # 网站描述
+  enableMathJax = true                                                 # enable mathjax               # 是否使用mathjax（数学公式）
+  enableSummary = true                                                 # display the article summary  # 是否显示文章摘要
+  mainSections = ["posts","post"]
+  
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
+  
+  
+[caches]
+[caches.images]
+  dir = ':cacheDir/images'

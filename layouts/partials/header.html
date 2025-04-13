@@ -1,0 +1,20 @@
+<div class="header animated fadeInDown">
+    <div class="site_title_container">
+<!--    <br> <br>-->
+        <div class="site_title" >
+            <h1>
+                <a href="{{ .Site.BaseURL }}">
+                    <span>{{ .Site.Title }}</span>
+                </a>
+            </h1>
+        </div> 
+        <br> <br>
+       <div class="description">
+             <div class="sub_title" >
+                 <p class="sub_title">{{ with .Site.Params.job }}{{ . }}{{ else }}{{ end }}</p>
+                 <p class="sub_title">{{ with .Site.Params.affiliation }}{{ . }}{{ else }}{{ end }}</p>
+                <p class="sub_title">{{ with .Site.Params.email }}{{ . }}{{ else }}{{ end }}</p>
+            </div>
+        </div>
+    </div>
+</div>
