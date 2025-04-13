@@ -14,7 +14,7 @@ Currently, no preprints.
 1. H. Wu and H. Joudeh, “Joint communication and channel discrimination,” _Entropy_, vol. 26, no. 12, p. 1089, 2024. (Open access, [Entropy](https://www.mdpi.com/1099-4300/26/12/1089))
 
 # Conference
-1. H. Wu and H. Joudeh, "Strong converse exponent for remote lossy source coding", in _2025 IEEE International Symposium on Information Theory (ISIT)_, to be presented. ([Arxiv](https://arxiv.org/abs/2501.14620))
+1. H. Wu and H. Joudeh, "Strong converse exponent for remote lossy source coding", in _2025 IEEE International Symposium on Information Theory (ISIT)_, to be presented. ([ArXiv](https://arxiv.org/abs/2501.14620))
 2. H. Wu and H. Joudeh, “An achievable error exponent for the information bottleneck channel,” in _2024 IEEE International Symposium on Information Theory (ISIT)_, Athens, Greece, 2024, pp. 1297–1302. ([PDF](https://pure.tue.nl/ws/portalfiles/portal/338326816/An_Achievable_Error_Exponent_for_the_Information_Bottleneck_Channel.pdf), [IEEE Xplore](https://ieeexplore.ieee.org/document/10619382))
 3. H. Joudeh and H. Wu, “Error exponents for source coding under logarithmic loss,” in _2024 International Zurich Seminar on Information and Communication (IZS)_, Zurich, Switzerland, 2024, pp. 99-103.([PDF](https://pure.tue.nl/ws/portalfiles/portal/318870610/Error_exponent_log_loss.pdf), [ETH Zürich library](https://www.research-collection.ethz.ch/handle/20.500.11850/664598))
 4. H. Wu and H. Joudeh, “Soft guessing under logarithmic loss,” in _2023 IEEE International Symposium on Information Theory (ISIT)_, Taipei, Taiwan, 2023, pp. 466–471.([PDF](https://pure.tue.nl/ws/portalfiles/portal/307426374/Soft_Guessing_Under_Logarithmic_Loss.pdf), [IEEE Xplore](https://ieeexplore.ieee.org/document/10206698))
