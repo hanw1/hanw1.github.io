@@ -7,8 +7,6 @@ theme = "zozo"
 hasCJKLanguage = true                  # has chinese/japanese/korean ?  # 自动检测是否包含 中文\日文\韩文
 enableEmoji = true
 
-
-
 pygmentsUseClasses = true
 pygmentCodeFences = true
 pygmentscodefencesguesssyntax = true
