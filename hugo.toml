@@ -1,5 +1,5 @@
 
-baseURL = "http://localhost:1313/"
+baseURL = "https://hanw1.github.io"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Han Wu"                        # site title                     # 网站标题
