@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="author" content="{{ if .Params.author }}{{ .Params.author | safeHTML }}{{ else }}{{ .Site.Params.Author.name | safeHTML }}{{ end }}" />
 	{{ $title := ( .Title ) }}
-	{{ $siteTitle := ( .Site.Params.subTitle ) }}
-	<title> {{ $siteTitle }} </title>
-	{{ if .IsHome }}
+	{{ $siteTitle := ( .Site.Title ) }}
+	<title>{{ $title }} ｜ {{ $siteTitle }}</title>
+<!--	{{ if .IsHome }}
 	<title>{{ $siteTitle }} {{ if isset .Site.Params "subtitle" }}｜ {{ .Site.Params.Subtitle }}{{ end }} </title>
 	{{ else }}
 	<title>{{ $title }} ｜ {{ $siteTitle }}</title>
-	{{ end }}
+	{{ end }}-->
     <!--     description & keywords -->
     {{ if .Description }}
     <meta name="description" content="{{ .Description | safeHTML }}" />
