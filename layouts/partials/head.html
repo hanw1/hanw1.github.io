@@ -8,12 +8,12 @@
 	{{ $title := ( .Title ) }}
 	{{ $siteTitle := ( .Site.Params.subTitle ) }}
 	<title> {{ $siteTitle }} </title>
-<!--	{{ if .IsHome }}
+	{{ if .IsHome }}
 	<title>{{ $siteTitle }} {{ if isset .Site.Params "subtitle" }}｜ {{ .Site.Params.Subtitle }}{{ end }} </title>
 	{{ else }}
 	<title>{{ $title }} ｜ {{ $siteTitle }}</title>
-	{{ end }}-->
-    <!-- description & keywords -->
+	{{ end }}
+    <!--     description & keywords -->
     {{ if .Description }}
     <meta name="description" content="{{ .Description | safeHTML }}" />
     {{ else if .IsPage }}
@@ -38,7 +38,7 @@
     <link rel="stylesheet" type="text/css" media="screen" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.0/animate.min.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="{{ "css/zozo.css" |absURL }}" />
 	<link rel="stylesheet" type="text/css" media="screen" href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" />
-    <link rel="stylesheet" type="text/css" media="screen" href="{{ "css/highlight.css" | absURL }}" />
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ "css/highlight.css" | absURL }}" />-->
 
     <!-- custom css -->
     {{ range .Site.Params.customCSS }}

@@ -2,7 +2,7 @@
 date = '2025-04-13T17:15:06+02:00'
 hidden = true
 draft = false
-title = ''
+title = 'Publications'
 +++
 [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ANZ5fUPVx2QaW7J0tzc5Wq6WR0V5t-Wvk0S1Negemv9COn4wat3Kp1hcP8WKlqPtoQ0d8am4jCX3K11ZavQ9nkmKJOd8&user=mvZUjp0AAAAJ)
 
