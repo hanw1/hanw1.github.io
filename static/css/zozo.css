@@ -563,6 +563,13 @@ hr {
   position: absolute;
 }
 
+/*.markdown strong {
+  padding: 1px 2px;
+  background-color: #fcfcf0;
+  font-weight: normal;
+}*/
+
+
 .markdown strong,
 .markdown b,
 .markdown em {
@@ -570,6 +577,8 @@ hr {
 /*  background-color: #fcfcf0;*/
   font-weight: normal;
 }
+
+
 
 .markdown .fancybox {
   text-align: center;
