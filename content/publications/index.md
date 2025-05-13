@@ -6,7 +6,7 @@ title = 'Publications'
 +++
 [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ANZ5fUPVx2QaW7J0tzc5Wq6WR0V5t-Wvk0S1Negemv9COn4wat3Kp1hcP8WKlqPtoQ0d8am4jCX3K11ZavQ9nkmKJOd8&user=mvZUjp0AAAAJ)
 # Preprints
-1. **H. Wu** and H. Joudeh, “Error exponents for oblivious relaying and connections to source coding with a helper,” May, 2025, *arXiv:2505.00567*. ([PDF](https://arxiv.org/pdf/2505.00567))
+1. **H. Wu** and H. Joudeh, “Error exponents for oblivious relaying and connections to source coding with a helper,” *arXiv:2505.00567*, May, 2025. ([PDF](https://arxiv.org/pdf/2505.00567))
 
 # Journals
 1. **H. Wu** and H. Joudeh, “Joint communication and channel discrimination,” _Entropy_, vol. 26, no. 12, p. 1089, 2024. ([Entropy](https://www.mdpi.com/1099-4300/26/12/1089), open access)
