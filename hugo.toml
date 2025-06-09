@@ -30,7 +30,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
   job = "PhD candidate"
-  affiliation = " Eindhoven University of Technology"
+  affiliation = "TU Eindhoven, the Netherlands"
   email = " Email: h.wu1 [at] tue [dot] nl"
   subTitle = "Han Wu's Homepage"                                       # site's subTitle              # 网站二级标题
   footerSlogan = "© 2025 Han Wu"                                   # site's footer slogan         # 网站页脚标语
