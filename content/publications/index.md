@@ -9,11 +9,12 @@ title = 'Publications'
 
 # Preprints
 
-1. H. Wu and H. Joudeh, “Error exponents for oblivious relaying and connections to source coding with a helper,” *Submitted to IEEE Transactions on Information Theory (minor revision)*, 2025. ([PDF](https://arxiv.org/pdf/2505.00567))
+Currently, no preprints.
 
 # Journals
 
-1. H. Wu and H. Joudeh, “Joint communication and channel discrimination,” *Entropy*, vol. 26, no. 12, p. 1089, 2024. ([Entropy](https://www.mdpi.com/1099-4300/26/12/1089), Part of special issue: [*Integrated Sensing and Communications*](https://www.mdpi.com/journal/entropy/special_issues/C8DF6LAGEB))
+1. H. Wu and H. Joudeh, “Error exponents for oblivious relaying and connections to source coding with a helper,” *Accepted by IEEE Transactions on Information Theory (minor revision)*, 2025. ([PDF](https://arxiv.org/pdf/2505.00567))
+2. H. Wu and H. Joudeh, “Joint communication and channel discrimination,” *Entropy*, vol. 26, no. 12, p. 1089, 2024. ([Entropy](https://www.mdpi.com/1099-4300/26/12/1089), Part of special issue: [*Integrated Sensing and Communications*](https://www.mdpi.com/journal/entropy/special_issues/C8DF6LAGEB))
 
 # Conferences
 
