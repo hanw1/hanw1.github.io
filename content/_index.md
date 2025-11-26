@@ -5,7 +5,7 @@ draft = false
 title = 'Home'
 +++
 
-I am a PhD candidate at [ICT lab](https://www.tue-ictlab.nl), Eindhoven University of Technology, the Netherlands. I received my MSc in Electrical Engineering from Chalmers University of Technology, Sweden, in 2020. I started my PhD in 2021 and plan to graduate in Fall 2025. My research interests are in information theory, with a focus on channel and source coding and error exponents.
+I received the MSc degree in 2020 from Chalmers University of Technology, Sweden, and the PhD degree in 2025 from Eindhoven University of Technology, the Netherlands. Both are in Electrical Engineering. I am currently a postdoctoral researcher at Eindhoven ([ICT Lab](https://www.tue-ictlab.nl)). My research interests are in information theory, with a focus on channel coding, source coding, and error exponents.
 
 <!--<div style="position: relative; top: -6cm;" align="right">  <img src="/images/photo2.png" width="120"/> </div> 
 
