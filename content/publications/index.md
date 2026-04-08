@@ -4,16 +4,18 @@ hidden = true
 draft = false
 title = 'Publications'
 +++
+
 [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ANZ5fUPVx2QaW7J0tzc5Wq6WR0V5t-Wvk0S1Negemv9COn4wat3Kp1hcP8WKlqPtoQ0d8am4jCX3K11ZavQ9nkmKJOd8&user=mvZUjp0AAAAJ)
 
 ## Preprints
 
-1. H. Wu and H. Joudeh, “Exponential error bounds for information bottleneck source coding problems,” *arXiv*: 2510.08364, Oct. 2025. ([arXiv](https://arxiv.org/pdf/2510.08364))
+Currently, no preprints
 
 ## Journals
 
-1. H. Wu and H. Joudeh, “Error exponents for oblivious relaying and connections to source coding with a helper,” *IEEE Transactions on Information Theory*, vol. 72, no. 3, pp. 1493–1520, 2026. ([IEEE](https://ieeexplore.ieee.org/document/11301799), [arXiv](https://arxiv.org/pdf/2505.00567))
-2. H. Wu and H. Joudeh, “Joint communication and channel discrimination,” *Entropy*, vol. 26, no. 12, special issue on Integrated Sensing and Communication, p. 1089, 2024. ([Entropy](https://www.mdpi.com/1099-4300/26/12/1089))
+1. H. Wu and H. Joudeh, “Exponential error bounds for information bottleneck source coding problems,” *IEEE Transactions on Information Theory*, accepted, 2026. ([arXiv](https://arxiv.org/pdf/2510.08364))
+2. H. Wu and H. Joudeh, “Error exponents for oblivious relaying and connections to source coding with a helper,” *IEEE Transactions on Information Theory*, vol. 72, no. 3, pp. 1493–1520, 2026. ([IEEE](https://ieeexplore.ieee.org/document/11301799), [arXiv](https://arxiv.org/pdf/2505.00567))
+3. H. Wu and H. Joudeh, “Joint communication and channel discrimination,” *Entropy*, vol. 26, no. 12, special issue on Integrated Sensing and Communication, p. 1089, 2024. ([Entropy](https://www.mdpi.com/1099-4300/26/12/1089))
 
 ## Conferences
 
