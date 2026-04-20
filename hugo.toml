@@ -31,7 +31,7 @@ pygmentscodefencesguesssyntax = true
 [params]
   job = "Postdoctoral Researcher"
   affiliation = "Tokyo University of Agriculture and Technology"
-  email = " Email: hanwu [at] go.tuat.ac.jp"
+  email = " Email: hanwu [at] go.tuat [dot] ac.jp"
   subTitle = "Han Wu's Homepage"                                       # site's subTitle              # 网站二级标题
   footerSlogan = "© 2025-2026 Han Wu"                                   # site's footer slogan         # 网站页脚标语
   keywords = ["Han Wu","homepage","information theory", "Eindhoven", "channel coding", "source coding", "Tokyo", "TUAT"]                                   # site's keywords              # 网站关键字
