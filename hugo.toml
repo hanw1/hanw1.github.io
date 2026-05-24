@@ -1,6 +1,6 @@
 
 baseURL = "https://hanw1.github.io"
-locale = "en-us"
+locale = "en-US"
 defaultContentLanguage = "en"
 title = "Han Wu"                        # site title                     # 网站标题
 theme = "zozo"
