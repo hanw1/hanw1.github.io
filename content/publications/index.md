@@ -13,7 +13,7 @@ Currently, no preprints
 
 ## Journals
 
-1. H. Wu and H. Joudeh, “Exponential error bounds for information bottleneck source coding problems,” *IEEE Transactions on Information Theory*, early access, 2026. ([IEEE](https://ieeexplore.ieee.org/document/11482682), [arXiv](https://arxiv.org/pdf/2510.08364))
+1. H. Wu and H. Joudeh, “Exponential error bounds for information bottleneck source coding problems,” *IEEE Transactions on Information Theory*, vol. 72, no. 6, pp. 3597-3620, 2026. ([IEEE](https://ieeexplore.ieee.org/document/11482682), [arXiv](https://arxiv.org/pdf/2510.08364))
 2. H. Wu and H. Joudeh, “Error exponents for oblivious relaying and connections to source coding with a helper,” *IEEE Transactions on Information Theory*, vol. 72, no. 3, pp. 1493–1520, 2026. ([IEEE](https://ieeexplore.ieee.org/document/11301799), [arXiv](https://arxiv.org/pdf/2505.00567))
 3. H. Wu and H. Joudeh, “Joint communication and channel discrimination,” *Entropy*, vol. 26, no. 12, special issue on Integrated Sensing and Communication, p. 1089, 2024. ([Entropy](https://www.mdpi.com/1099-4300/26/12/1089))
 
