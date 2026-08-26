@@ -9,7 +9,7 @@ title = 'Publications'
 
 ## Preprints
 
-Currently, no preprints
+1. H. Wu and S. Watanabe, “Distributed hypothesis testing against dependence,” Aug. 25, 2026,  *arXiv:2608.24403*. ([arXiv](https://arxiv.org/pdf/2608.24403))
 
 ## Journals
 
